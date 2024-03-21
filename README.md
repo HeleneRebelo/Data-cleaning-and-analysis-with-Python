@@ -17,14 +17,20 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 - Excel for additional data manipulation and cleaning
 
 ## Folder Structure
+
 /src: Contains Python scripts for data cleaning and analysis.
+
 /docs: Project csvs, and presentation.
 
 ## Analysis Summary
 The analysis revealed key insights into the impact of discounts on Eniac's sales performance. The graphs illustrating the key findings were plotted with the Seaborn library and then transferred to a short presentation.
+
 **1. Monthly Revenue and Average Discount Rate**: There is a positive correlation between monthly revenue and the average discount rate.Specifically, periods with higher average discounts show an increment in sales performance.
+
 **2. Seasonal Shifts and Special Events**: Discounts significantly influence sales during seasonal shifts and special events. Applying discounts during these periods increases the likelihood of generating sales.
+
 **3. Discounts Across Product Categories**: Discounts vary based on the pricing and quantity of different product categories. Lower-priced items tend to have higher discounts, and products with higher quantities sold also attract higher discounts.
+
 **4. Effect on Revenue per Day by Category**: Discounts impact the revenue per day, with variations observed across different product categories, especially those with the highest discounts and most sold products.
 
 ## Data Cleaning
