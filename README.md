@@ -22,7 +22,7 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 - [/docs](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/docs): Project csvs, and presentation.
 - [/data](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data): Original and clean databases.
 
-## Data Cleaning
+## Data Cleaning and Preparation
 The dataset needed an extensive cleaning process to ensure data integrity:
 
 **1. Corrupted Database**: Identified and addressed issues that affected the overall integrity of the database.
