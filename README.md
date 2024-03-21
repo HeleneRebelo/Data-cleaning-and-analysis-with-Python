@@ -18,9 +18,9 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 
 ## Folder Structure
 
-- [/src](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/src): Contains Python scripts for data cleaning and analysis.
-- [/docs](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/docs): Project csvs, and presentation.
-- [/data](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/data): Original and clean databases.
+- [/src](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/src): Contains Python scripts for data cleaning and analysis.
+- [/docs](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/docs): Project csvs, and presentation.
+- [/data](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data): Original and clean databases.
 
 ## Analysis Summary
 The analysis revealed key insights into the impact of discounts on Eniac's sales performance. The graphs illustrating the key findings were plotted with the Seaborn library and then transferred to a short presentation.
@@ -37,8 +37,11 @@ The analysis revealed key insights into the impact of discounts on Eniac's sales
 The dataset needed an extensive cleaning process to ensure data integrity:
 
 **1. Corrupted Database**: Identified and addressed issues that affected the overall integrity of the database.
+
 **2. Incongruent Data**: Resolved inconsistencies, mismatched, and/or duplicate data.
+
 **3. Double Dots Numbers**: Rectified anomalies in numerical values, focusing on duplicated or irregular decimal points.
+
 **4. Data Quality Concerns**: Mitigated issues affecting the reliability and completeness of the dataset.
 
 ### This project was made possible by the collaborative efforts of our team:
