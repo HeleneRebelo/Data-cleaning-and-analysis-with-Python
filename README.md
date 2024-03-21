@@ -18,9 +18,9 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 
 ## Folder Structure
 
-/src: Contains Python scripts for data cleaning and analysis.
-
-/docs: Project csvs, and presentation.
+- [/src](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/src): Contains Python scripts for data cleaning and analysis.
+- [/docs](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/docs): Project csvs, and presentation.
+- [/data](https://github.com/HeleneRebelo/Data-cleaning-and-analysis-with-Python/tree/main/data/data): Original and clean databases.
 
 ## Analysis Summary
 The analysis revealed key insights into the impact of discounts on Eniac's sales performance. The graphs illustrating the key findings were plotted with the Seaborn library and then transferred to a short presentation.
@@ -35,6 +35,7 @@ The analysis revealed key insights into the impact of discounts on Eniac's sales
 
 ## Data Cleaning
 The dataset needed an extensive cleaning process to ensure data integrity:
+
 **1. Corrupted Database**: Identified and addressed issues that affected the overall integrity of the database.
 **2. Incongruent Data**: Resolved inconsistencies, mismatched, and/or duplicate data.
 **3. Double Dots Numbers**: Rectified anomalies in numerical values, focusing on duplicated or irregular decimal points.
