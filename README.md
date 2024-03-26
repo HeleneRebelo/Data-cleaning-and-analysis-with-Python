@@ -45,6 +45,6 @@ The analysis revealed key insights into the impact of discounts on Eniac's sales
 **4. Effect on Revenue per Day by Category**: Discounts impact the revenue per day, with variations observed across different product categories, especially those with the highest discounts and most sold products.
 
 ### This project was made possible by the collaborative efforts of our team:
-Me, [Hanne Prüfer](https://github.com/HannePruefer), [Irene da Cruz](https://github.com/Iredcg?tab=repositories) e [Roberto Cavotti](https://github.com/RobertoCavotti).
+Me, [Hanne Prüfer](https://github.com/HannePruefer), [Irene da Cruz](https://github.com/Iredcg?tab=repositories), and [Roberto Cavotti](https://github.com/RobertoCavotti).
 
 
