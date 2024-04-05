@@ -1,9 +1,9 @@
 # Discount Data Analysis for Eniac: A Comprehensive Overview
-## Main Objective
-To carry out an in-depth analysis of the discount strategy and its impact on Eniac's revenue. Therefore, the relationship between discounts, sales performance, seasonal shifts, special events, product categories, and various price and quantity dynamics is investigated to provide insights into how to optimize the distribution of discounts among product categories, and throughout the year.
-
 ## Context
 The Spanish company Eniac wants to understand how its monthly revenue and average discount rate influenced sales performance in the years 2017 to 2018. 
+
+## Main Objective
+To carry out an in-depth analysis of the discount strategy and its impact on Eniac's revenue. Therefore, the relationship between discounts, sales performance, seasonal shifts, special events, product categories, and various price and quantity dynamics is investigated to provide insights into how to optimize the distribution of discounts among product categories, and throughout the year.
 
 ## Challenge
 To distribute discounts among product categories and throughout the year.
